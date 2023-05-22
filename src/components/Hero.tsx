@@ -8,7 +8,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() =>
-            window.open('https://github.com/EdwinBayingana/summify')
+            window.open('https://github.com/EdwinBayingana/summify-TS.git')
           }
           className="black_btn"
         >
