@@ -10,6 +10,7 @@ This project was bootstrapped with [Vite]([https://github.com/facebook/create-re
 
 - Clone the repo `git clone [link]`
 - Run `npm i` to get all the dependencies
+- Run `npm run build` to build the app in production mode
 - Run `npm run dev` to start the development server
 
 ## Project Gear
