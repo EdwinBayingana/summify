@@ -31,7 +31,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to open it up in your browser.
 
 The page will reload when you make changes.\
-Lint errors are displayed in the console and client side (browser) as well.
+Lint errors are displayed in the console and client side (browser) as well. 
 
 ### `npm run build`
 
