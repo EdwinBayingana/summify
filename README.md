@@ -2,7 +2,7 @@
 
 ## Deployed Demo
 
-- Visit [Summify](https://summify-ts.vercel.app/)
+- Visit [Summify](https://summify-ts.vercel.app/) 
 
 This project was bootstrapped with [Vite]([https://github.com/facebook/create-react-app](https://vitejs.dev/)), having its API data source as RapidAPI and built for education purposes
 
